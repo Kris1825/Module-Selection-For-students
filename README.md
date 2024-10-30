@@ -9,3 +9,11 @@ Prerequisite Checker: Ensures students meet the required prerequisites for chose
 Progress Tracker: Tracks completed and remaining modules for degree requirements.
 Interactive UI: Includes popping messages and a proper menu bar for enhanced user interaction.
 Requirement Management
+
+
+Future Improvements
+Integration with University Systems: Sync with university databases for real-time module updates.
+Mobile Application: Develop a mobile version for on-the-go access.
+Enhanced Recommendations: Use machine learning to improve module recommendations.
+Contact
+For any queries, reach out to krzysztof.tomczak99@gmail.com
